@@ -1,0 +1,30 @@
+.modal-body img {
+    width: 400px;
+    height: 270px;
+}
+
+.modal-body {
+    height: 430px !important;
+}
+
+.modal-body p {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.modal-footer a {
+    color: #fff;
+}
+
+#take {
+    width: 100px !important;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+#take a {
+    text-decoration: none;
+}

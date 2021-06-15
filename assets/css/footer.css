@@ -1,0 +1,77 @@
+/* footer */
+
+footer {
+    margin-top: 150px;
+    position: relative;
+    height: 350px;
+    background-color: #121921;
+}
+
+.logo img {
+    width: 180px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.logo {
+    color: white;
+}
+
+.logo h3 {
+    font-weight: bold;
+}
+
+.logo p {
+    font-weight: lighter;
+}
+
+.sosmed h5 {
+    font-size: 15px !important;
+}
+
+#a {
+    color: white;
+    margin-right: 10px;
+}
+
+#contact {
+    color: white;
+    margin-top: 60px;
+}
+
+#kontak {
+    list-style-type: none;
+}
+
+#kontak i {
+    margin-right: 10px !important;
+}
+
+#kontak li {
+    margin-top: 10px !important;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#submit-newsletter {
+    position: absolute;
+    right: 0;
+    color: #fff;
+    font-size: 13px;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    margin-top: -38.5px;
+    margin-right: 13em;
+    border: 0;
+    padding: 0 12px;
+    height: 40px;
+    cursor: pointer;
+    -webkit-border-radius: 0 3px 3px 0;
+    -moz-border-radius: 0 3px 3px 0;
+    -ms-border-radius: 0 3px 3px 0;
+    border-radius: 0 3px 3px 0;
+    background-color: #0d6efd;
+    border: 0;
+}
